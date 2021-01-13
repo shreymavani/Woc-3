@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySendRecieve</string>
+    <string name="Sendnow">Send</string>
+    <string name="Delete">Delete</string>
+    <string name="Recievenow">Recieve</string>
+    <string name="Image">Wet tree droplets</string>
+</resources>
